@@ -7,9 +7,7 @@
    "startapp_home_adview_1":"true",
    "startapp_home_adview_2":"true",
    "startapp_home_adview_3":"true",
-   "startapp_home_adview_4":"true",
-   "startapp_home_adview_5":"true",
-   "startapp_home_adview_6":"true",
+   
    "startapp_player_top_adviews":"true",
    "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"true",
@@ -34,15 +32,7 @@
    "home_adview_3":[
       
    ],
-   "home_adview_4":[
-      
-   ],
-   "home_adview_5":[
-      
-   ],
-   "home_adview_6":[
-      
-   ],
+   
    "player_top_adviews":[
       
    ],
@@ -62,21 +52,11 @@
       
    ],
    "impression_interstial_cap_per_second":"10000",
-   "show_title_1":"🔥🔥2023 နောက်ဆုံးထွက်",
-   "folder_1":"2023",
-   "api_title_1":"2023",
-   "show_title_2":"Marvel MCU🔥🔥",
-   "folder_2":"Marvel",
-   "api_title_2":"marvel",
-   "show_title_3":"Drama Movie",
-   "folder_3":"Drama%20Movies%20JSON",
-   "api_title_3":"drama_movie",
-   "show_title_4":"Comedy",
-   "folder_4":"Comedy%20Movies%20JSON",
-   "api_title_4":"comedy_movie",
-   "show_title_5":"Animation",
-   "folder_5":"Animation%20Movies%20JSON",
-   "api_title_5":"animation_movie",
+   "show_title_1":"🔥🔥For You",
+   "folder_1":"foryou",
+   "api_title_1":"foryou",
+
+   
    "update_title":"Update title",
    "update_icon":"",
    "update_message":"Update message",
