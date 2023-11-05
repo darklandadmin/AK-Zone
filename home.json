@@ -16,6 +16,7 @@
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "vip_add_image":"",
+    "vip_add_url":"",
    "slide_images":[
       
  {  "image_url":"https://imgur.com/emBIHI0.png",  "redirect_url":"https://bit.ly/zozotvapp" 
