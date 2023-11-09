@@ -1,9 +1,9 @@
 {
    "ad_type":"startapp",
-   "ad_duration":"10000",
+   "ad_duration":"1000",
    "applovin_ad_duration":"10000",
    "applovin_add":"false",
-   "startapp_add":"false",
+   "startapp_add":"true",
    "startapp_home_adview_1":"true",
    "startapp_home_adview_2":"true",
    "startapp_home_adview_3":"true",
@@ -55,7 +55,7 @@
    ],
    "impression_interstial_cap_per_second":"10000",
    "show_title_1":"🔥🔥For You",
-   "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/foryou/foryou_1.json",
+   "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/foryou/foryou",
 
    
    "update_title":"Update title",
