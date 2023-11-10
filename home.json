@@ -1,14 +1,11 @@
 {
    "ad_type":"startapp",
-   "ad_duration":"1000",
-   "applovin_ad_duration":"10000",
-   "applovin_add":"false",
+   "startapp_ad_duration":"1000",
    "startapp_add":"true",
    "startapp_home_adview_1":"true",
    "startapp_home_adview_2":"true",
    "startapp_home_adview_3":"true",
    
-   "startapp_player_top_adviews":"true",
    "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"true",
    "startapp_detail_big_adviews":"true",
@@ -34,10 +31,7 @@
    "home_adview_3":[
       
    ],
-   
-   "player_top_adviews":[
-      
-   ],
+  
    "player_loader_adviews":[
       
    ],
@@ -47,16 +41,11 @@
    "detail_bottom_adviews":[
       
    ],
-   "image_interstialads_views":[
-      
-   ],
-   "image_interstialads_player_views":[
-      
-   ],
-   "impression_interstial_cap_per_second":"10000",
+  
+  
    "show_title_1":"🔥🔥For You",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/foryou/foryou",
-
+   "movie_category_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/foryou/foryou.category",
    
    "update_title":"Update title",
    "update_icon":"",
