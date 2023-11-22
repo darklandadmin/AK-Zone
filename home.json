@@ -5,23 +5,35 @@
    "startapp_home_adview_1":"true",
    "startapp_home_adview_2":"true",
    "startapp_home_adview_3":"true",
-   
    "startapp_player_loader_adviews":"true",
-   "startapp_detail_top_adviews":"true",
+   "startapp_detail_top_adviews":"false",
    "startapp_detail_big_adviews":"true",
    "startapp_download_tool_adviews":"true",
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "vip_add_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9eX_ksAiTAJFYpUsiZv1v22FkNM_-cxCql01eMvZ7kCqH7sAqCOYpYKS0rc2bqbJFIzEA-5LCbHO02oM4eXF4BYPByBfngIgSMiAoi9OG_OqZkcoq5qYOnsbwxqVbQ8d0t6yNvYkddC2vkMw9wNJShYqrqknTymEE6QVCpInjen5rgZf508It9fjS0o/s1600/20231120_215207.jpg",
-    "vip_add_url":"",
+   "vip_add_url":"",
    "slide_images":[
-   { "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7ZPOVXXSlbrjIc23FUc-KBdpVq3rqO3JxWurbhkTfSZ7rK5IZG2nIMCtdCg4drqYLoX8GdoLQSot4L2pUE71lCWrv4eNA22cYXkzc1-KgLR0ERRE5sp8vJcoxCa1ARd3SzUPc2nj1nPmKv651FZkraPr95f8sz2qZd38_QMa9fHRCwNbvqFk6atOc-Mc/s1600/i01_png_20231119_233750_0000.jpg", "redirect_url":"https://t.me/mmDLadmin" },   
- {  "image_url":"https://imgur.com/emBIHI0.png",  "redirect_url":"https://play.google.com/store/apps/details?id=com.dl.dlent.app" 
-       },
- {  "image_url":"https://imgur.com/j6PWMb4.jpg",  "redirect_url":"https://www.facebook.com/profile.php?id=100094652915076&mibextid=9R9pXO" 
-       },
-
-{ "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtSoJxuOzfRmt3aGgA_f3O4MXrdElUI8vQ5IJD4NPucpOBv_fGD0mT34PcKo1nny8eOXZq3Tc2RaT5kGhg2UomeHW5OiXknuTd81cqAN9P9AJzv3Ruco-LrphpJmkxarz8X7mJJ2kkd-gZySMXrQgN-kNfv1Gkk9YBOixMCbtqUGjgKoXT7heXSYJ0aG1O/s1148/png_20231119_235321_0000.jpg", "redirect_url":"https://www.facebook.com/profile.php?id=61553662825306&mibextid=ZbWKwL" }
+      {
+         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOr7izYw0pdq7uJUsJfWWSnBMdUPFLySJRVmGo1vd7yA3TqxAmft5X-hvqoNv6xtOxV9jMCxjqs5lKRhslIpltuMgnwtUouyFhpKDbVUJYF9af8ed2-tk59jZs04MKQjiZGUvtuVIy3SV_GtHb9kDO3oVxtSjWwjkSufEwngknUgfZLpBn2nP2-8fMm-c/s1000/1000x650%20gif.gif",
+         "redirect_url":"https://bit.ly/3SLamWA"
+      },
+      {
+         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7ZPOVXXSlbrjIc23FUc-KBdpVq3rqO3JxWurbhkTfSZ7rK5IZG2nIMCtdCg4drqYLoX8GdoLQSot4L2pUE71lCWrv4eNA22cYXkzc1-KgLR0ERRE5sp8vJcoxCa1ARd3SzUPc2nj1nPmKv651FZkraPr95f8sz2qZd38_QMa9fHRCwNbvqFk6atOc-Mc/s1600/i01_png_20231119_233750_0000.jpg",
+         "redirect_url":"https://t.me/mmDLadmin"
+      },
+      {
+         "image_url":"https://imgur.com/emBIHI0.png",
+         "redirect_url":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
+      },
+      {
+         "image_url":"https://imgur.com/j6PWMb4.jpg",
+         "redirect_url":"https://www.facebook.com/profile.php?id=100094652915076&mibextid=9R9pXO"
+      },
+      {
+         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtSoJxuOzfRmt3aGgA_f3O4MXrdElUI8vQ5IJD4NPucpOBv_fGD0mT34PcKo1nny8eOXZq3Tc2RaT5kGhg2UomeHW5OiXknuTd81cqAN9P9AJzv3Ruco-LrphpJmkxarz8X7mJJ2kkd-gZySMXrQgN-kNfv1Gkk9YBOixMCbtqUGjgKoXT7heXSYJ0aG1O/s1148/png_20231119_235321_0000.jpg",
+         "redirect_url":"https://www.facebook.com/profile.php?id=61553662825306&mibextid=ZbWKwL"
+      }
    ],
    "home_adview_1":[
       
@@ -32,22 +44,23 @@
    "home_adview_3":[
       
    ],
-  
    "player_loader_adviews":[
       
    ],
    "detail_top_adviews":[
-      
+      {
+         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
+         "title":"",
+         "actiontitle":"",
+         "url":"https://bit.ly/3MOUEWH"
+      }
    ],
    "detail_bottom_adviews":[
       
    ],
-  
-  
    "show_title_1":"JAV VIP 🔑🔥",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/VIP/Japan%20VIP%20first%20active/japan_vip_first_active",
    "movie_category_url_1":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
-   
    "update_title":"Update title",
    "update_icon":"",
    "update_message":"Update message",
