@@ -11,7 +11,7 @@
    "startapp_download_tool_adviews":"true",
    "startapp_movies_bottom":"true",
    "startapp_home_bottom":"true",
-   "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
+   "startapp_movies_download":"true", "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "vip_add_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9eX_ksAiTAJFYpUsiZv1v22FkNM_-cxCql01eMvZ7kCqH7sAqCOYpYKS0rc2bqbJFIzEA-5LCbHO02oM4eXF4BYPByBfngIgSMiAoi9OG_OqZkcoq5qYOnsbwxqVbQ8d0t6yNvYkddC2vkMw9wNJShYqrqknTymEE6QVCpInjen5rgZf508It9fjS0o/s1600/20231120_215207.jpg",
    "vip_add_url":"",
@@ -70,6 +70,15 @@
          "url":"https://bit.ly/3MOUEWH"
       }
    ],
+"movies_download":[ 
+   { 
+          "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif", 
+          "title":"", 
+          "actiontitle":"", 
+          "url":"https://bit.ly/3MOUEWH" 
+       } 
+  
+    ], 
    "show_title_1":"JAV VIP 🔑🔥",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/VIP/Japan%20VIP%20first%20active/japan_vip_first_active",
    "movie_category_url_1":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
