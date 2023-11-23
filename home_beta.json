@@ -9,7 +9,7 @@
    "startapp_detail_top_adviews":"false",
    "startapp_detail_big_adviews":"true",
    "startapp_download_tool_adviews":"true",
-   "startapp_movies_bottom":"true",
+   "startapp_movies_bottom":"false",
    "startapp_home_bottom":"false",
    "startapp_movies_download":"true",
    "startapp_link_download":"true", "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
