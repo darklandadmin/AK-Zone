@@ -23,20 +23,10 @@
       }
    ],
    "home_adview_1":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+ 
    ],
    "home_adview_2":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+ 
    ],
    "home_adview_3":[
       
@@ -98,7 +88,7 @@
    "update_icon":"",
    "update_message":"Update message",
    "update_force":false,
-   "update_versionCode":1,
+   "update_versionCode":2,
    "playstore_link":"",
    "download_link":""
 }
