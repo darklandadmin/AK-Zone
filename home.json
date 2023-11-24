@@ -1,9 +1,9 @@
 {
    "ad_type":"startapp",
-   "startapp_ad_duration":"120000",
+   "startapp_ad_duration":"10000",
    "startapp_add":"true",
-   "startapp_home_adview_1":"false",
-   "startapp_home_adview_2":"false",
+   "startapp_home_adview_1":"true",
+   "startapp_home_adview_2":"true",
    "startapp_home_adview_3":"true",
    "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"false",
@@ -16,28 +16,17 @@
    "slide_images":[
       {
          "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOr7izYw0pdq7uJUsJfWWSnBMdUPFLySJRVmGo1vd7yA3TqxAmft5X-hvqoNv6xtOxV9jMCxjqs5lKRhslIpltuMgnwtUouyFhpKDbVUJYF9af8ed2-tk59jZs04MKQjiZGUvtuVIy3SV_GtHb9kDO3oVxtSjWwjkSufEwngknUgfZLpBn2nP2-8fMm-c/s1000/1000x650%20gif.gif",
-         "redirect_url":"https://bit.ly/3SLamWA"}
-
+         "redirect_url":"https://bit.ly/3SLamWA"
+      }
    ],
    "home_adview_1":[
-         {  "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
-
+      
    ],
    "home_adview_2":[
-         {  "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
-
+      
    ],
    "home_adview_3":[
- 
-
+      
    ],
    "player_loader_adviews":[
       
