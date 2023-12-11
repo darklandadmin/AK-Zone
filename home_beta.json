@@ -106,8 +106,6 @@
    "movie_url_7":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/VIP/Japan%20Second%20Free/vip_japan_second",
    "movie_category_url_7":"https://raw.githubusercontent.com/MgKaungMyatDEC/AK-Zone/main/category/foryou.category",
    "vip_7":"false",
-
-   
    "update_title":"Update title",
    "update_icon":"",
    "update_message":"Update message",
@@ -116,12 +114,13 @@
    "playstore_link":"",
    "download_link":"",
 
+   
    "noti_icon":"https://media3.giphy.com/media/VVmc1OwnoNKu06pqRt/giphy.gif?cid=ecf05e47nkxv9wkz6kk3biqvd0zxe1kokxtz5z7obvspxfax&ep=v1_gifs_search&rid=giphy.gif&ct=g",
    "noti_title":"Noti",
-    "noti_image":"https://i.giphy.com/wIVA0zh5pt0G5YtcAL.webp",
+   "noti_image":"https://i.giphy.com/wIVA0zh5pt0G5YtcAL.webp",
    "noti_message":"We have one of notification for you that is special. Here is to get Preminium feature on this Application. Click ‘Done’ to get below.",
    "show_cancel":true,
    "noti_show":true,
-   "noti_done_text":"Rate"
+   "noti_done_text":"Rate",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
 }
