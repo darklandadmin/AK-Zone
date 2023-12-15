@@ -2,17 +2,17 @@
    "ad_type":"startapp",
    "startapp_ad_duration":"1000",
    "startapp_add":"true",
-   "startapp_home_adview_1":"false",
-   "startapp_home_adview_2":"false",
-   "startapp_home_adview_3":"false",
-   "startapp_player_loader_adviews":"false",
+   "startapp_home_adview_1":"true",
+   "startapp_home_adview_2":"true",
+   "startapp_home_adview_3":"true",
+   "startapp_player_loader_adviews":"true",
    "startapp_detail_top_adviews":"false",
-   "startapp_detail_big_adviews":"false",
-   "startapp_download_tool_adviews":"false",
-   "startapp_movies_bottom":"false",
-   "startapp_home_bottom":"false",
-   "startapp_movies_download":"false",
-   "startapp_link_download":"false",
+   "startapp_detail_big_adviews":"true",
+   "startapp_download_tool_adviews":"true",
+   "startapp_movies_bottom":"true",
+   "startapp_home_bottom":"true",
+   "startapp_movies_download":"true",
+   "startapp_link_download":"true",
    "remove_ads_url":"https://custom-ads-page.blogspot.com/p/remove-ads.html",
    "vip_list_url":"https://custom-ads-page.blogspot.com/feeds/posts/default/?q=label:vip_key_oct&alt=json",
    "vip_add_image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD9eX_ksAiTAJFYpUsiZv1v22FkNM_-cxCql01eMvZ7kCqH7sAqCOYpYKS0rc2bqbJFIzEA-5LCbHO02oM4eXF4BYPByBfngIgSMiAoi9OG_OqZkcoq5qYOnsbwxqVbQ8d0t6yNvYkddC2vkMw9wNJShYqrqknTymEE6QVCpInjen5rgZf508It9fjS0o/s1600/20231120_215207.jpg",
@@ -22,42 +22,19 @@
          "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOr7izYw0pdq7uJUsJfWWSnBMdUPFLySJRVmGo1vd7yA3TqxAmft5X-hvqoNv6xtOxV9jMCxjqs5lKRhslIpltuMgnwtUouyFhpKDbVUJYF9af8ed2-tk59jZs04MKQjiZGUvtuVIy3SV_GtHb9kDO3oVxtSjWwjkSufEwngknUgfZLpBn2nP2-8fMm-c/s1000/1000x650%20gif.gif",
          "redirect_url":"https://bit.ly/3SLamWA"
       },
-       {
-         "image_url":"https://bawa101.com/storage/article/2019/February/2ZtLjXupxqeI0nJXQVrJ.jpg",
-         "redirect_url":""
-      }
+      
    ],
    "home_adview_1":[
-       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+     
    ],
    "home_adview_2":[
-       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+      
    ],
    "home_adview_3":[
-       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+  
    ],
    "player_loader_adviews":[
-       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+       
    ],
    "detail_top_adviews":[
       {
@@ -68,44 +45,19 @@
       }
    ],
    "detail_bottom_adviews":[
-       {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+    
    ],
    "movies_bottom":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+  
    ],
    "home_bottom":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+   
    ],
    "movies_download":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+   
    ],
    "link_download":[
-      {
-         "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnSWg-XyywKxhXCU1QYtd6-7RcR1aTmgKBpYEk3V-qx6m8zK6WVDEo0IuMuFGMDQjzZRytgXZLyvRHPTSm00mmVMkiP9ByxRfJCmS75lTkSlvqtEgsQ1mVx4lJXM3ohO9FqfP9mitsBliIbj0STdAZ9XrR0jrdhk0YEXXKNmP38BuYF6K9Xa1pFcu8D24/s1100/1100x250%20sexy%20gif.gif",
-         "title":"",
-         "actiontitle":"",
-         "url":"https://bit.ly/3MOUEWH"
-      }
+    
    ],
    "show_title_1":"JAV VIP 🔑🔥",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/VIP/BlueTvDarkPlus/bluetv_1_2_darkplus_vip",
@@ -149,7 +101,7 @@
    "noti_image":"https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542",
    "noti_message":"We have one of notification for you that is special. Here is to get Preminium feature on this Application. Click ‘Done’ to get below.",
    "show_cancel":true,
-   "noti_show":true,
+   "noti_show":false,
    "noti_done_text":"Rate",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
 }
