@@ -22,24 +22,23 @@
          "image_url":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOr7izYw0pdq7uJUsJfWWSnBMdUPFLySJRVmGo1vd7yA3TqxAmft5X-hvqoNv6xtOxV9jMCxjqs5lKRhslIpltuMgnwtUouyFhpKDbVUJYF9af8ed2-tk59jZs04MKQjiZGUvtuVIy3SV_GtHb9kDO3oVxtSjWwjkSufEwngknUgfZLpBn2nP2-8fMm-c/s1000/1000x650%20gif.gif",
          "redirect_url":"https://bit.ly/3SLamWA"
       }
-      
    ],
    "home_adview_1":[
-     {
-   "image_url":"https://i.giphy.com/xcXCzwffJCkda.webp",
-   "title":"ဆက်ဆီအလှများကြည့်ရန်,အိုးလှလှလေးကြည့်ရန်,အကိတ်မမများ",
-   "actiontitle":"Telegram",
-   "url":"https://t.me/mmdarklandshort"
-}
+      {
+         "image_url":"https://i.giphy.com/xcXCzwffJCkda.webp",
+         "title":"ဆက်ဆီအလှများကြည့်ရန်,အိုးလှလှလေးကြည့်ရန်,အကိတ်မမများ",
+         "actiontitle":"Telegram",
+         "url":"https://t.me/mmdarklandshort"
+      }
    ],
    "home_adview_2":[
       
    ],
    "home_adview_3":[
-  
+      
    ],
    "player_loader_adviews":[
-       
+      
    ],
    "detail_top_adviews":[
       {
@@ -50,19 +49,19 @@
       }
    ],
    "detail_bottom_adviews":[
-    
+      
    ],
    "movies_bottom":[
-  
+      
    ],
    "home_bottom":[
-   
+      
    ],
    "movies_download":[
-   
+      
    ],
    "link_download":[
-    
+      
    ],
    "show_title_1":"JAV VIP 🔑🔥",
    "movie_url_1":"https://github.com/MgKaungMyatDEC/AK-Zone/raw/main/VIP/BlueTvDarkPlus/bluetv_1_2_darkplus_vip",
@@ -99,14 +98,12 @@
    "update_versionCode":2,
    "playstore_link":"",
    "download_link":"",
-
-   
    "noti_icon":"https://media3.giphy.com/media/VVmc1OwnoNKu06pqRt/giphy.gif?cid=ecf05e47nkxv9wkz6kk3biqvd0zxe1kokxtz5z7obvspxfax&ep=v1_gifs_search&rid=giphy.gif&ct=g",
-   "noti_title":"Noti",
-   "noti_image":"https://cdna.artstation.com/p/assets/images/images/042/676/328/original/leo-bryan-arief-sprite-0002.gif?1635169542",
-   "noti_message":"We have one of notification for you that is special. Here is to get Preminium feature on this Application. Click ‘Done’ to get below.",
-   "show_cancel":true,
-   "noti_show":false,
-   "noti_done_text":"Rate",
+   "noti_title":"5Starsပေးပါအုံး",
+   "noti_image":"https://i.imgur.com/aCrc7fA.jpg",
+   "noti_message":"ညိုကီတို့...\nပလေးစတိုးမှာ ကြယ်၅လုံးပေးပေးပါအုံးဗျို့။ အသစ်တွေလဲထပ်တင်ပေးအုံးမယ်",
+   "show_cancel":false,
+   "noti_show":true,
+   "noti_done_text":"ကြယ်ပေးမယ်",
    "noti_go_link":"https://play.google.com/store/apps/details?id=com.dl.dlent.app"
 }
